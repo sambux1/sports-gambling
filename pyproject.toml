@@ -1,0 +1,7 @@
+[project]
+name = "sports-gambling"
+version = "0.1.0"
+description = "A set of all my scripts related to my gambling fun."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
